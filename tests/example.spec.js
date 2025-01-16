@@ -211,7 +211,7 @@ test('The HTML element of class ".reviews" should have a background image url of
     });
 
   expect(reviewsBackgroundImageValue).toBe(
-    'url("http://localhost:5551/assets/backgrounds/review-bg.png")'
+    'url("http://localhost:5552/assets/backgrounds/review-bg.png")'
   );
 });
 

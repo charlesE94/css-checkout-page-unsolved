@@ -129,8 +129,8 @@ i {
 /* 🔴 CSS Syntax Error here 👇 */
 .option-item-name .hint,
 .review-author-name .hint,
-.form-input-group {
-  label:
+.form-input-group 
+  label: {
   font-size: 12px;
   color: #b6b8c0;
 }
@@ -193,7 +193,7 @@ label {
   bottom: 0;
   left: 0;
   right: 0;
-  background-image: url("https://localhost:5552/assets/backgrounds/review-bg.png");
+  background-image: url("http://localhost:5552/assets/backgrounds/review-bg.png");
   background-size; cover: 
 }
 
