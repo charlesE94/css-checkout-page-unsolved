@@ -62,7 +62,7 @@ i {
 /* 🔴 CSS Syntax Error here 👇 */
 .box {
   background: linear-gradient(#17192c, #1a1c30),
-  border; 1px solid #2c3044;
+  border: 1px solid #2c3044;
   padding: 30px;
   width: 100%;
   border-radius: 16px;
@@ -130,7 +130,7 @@ i {
 .option-item-name .hint,
 .review-author-name .hint,
 .form-input-group {
-  label:  
+  label:
   font-size: 12px;
   color: #b6b8c0;
 }
@@ -193,7 +193,7 @@ label {
   bottom: 0;
   left: 0;
   right: 0;
-  background-image: url(/assets/backgrounds/review-bg.png');
+  background-image: url("https://localhost:5552/assets/backgrounds/review-bg.png");
   background-size; cover: 
 }
 
