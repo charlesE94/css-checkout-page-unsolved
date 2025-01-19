@@ -62,8 +62,7 @@ i {
 /* 🔴 CSS Syntax Error here 👇 */
 .box {
   background: linear-gradient(#17192c, #1a1c30),
-  border: 1px solid;
-  rgb(44, 48, 68);
+  border: 1px solid rgb(44, 48, 68);
   padding: 30px;
   width: 100%;
   border-radius: 16px;
