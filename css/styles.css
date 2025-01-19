@@ -131,7 +131,8 @@ i {
 .review-author-name .hint,
 .form-input-group 
   label: {
-  font-size: 12px color: #b6b8c0;
+  font-size: 12px;
+  color: #b6b8c0;
 }
 
 /* 🔴 CSS Syntax Error here 👇 */
